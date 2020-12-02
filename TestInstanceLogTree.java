@@ -1,4 +1,4 @@
-package com.ysree.sparc.entity.solr;
+package com.ysree.entity.solr;
 
 import java.util.ArrayList;
 import java.util.List;
