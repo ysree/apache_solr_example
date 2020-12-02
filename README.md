@@ -24,7 +24,7 @@ sudo bash ./install_solr_service.sh solr-7.7.0.tgz -d /data/solr
 sudo /etc/init.d/solr status
 ```
 
-##Create Core
+## Create Core
 Each core represents a instance of application data. For example *ysree* project step logs is one core. To create the core follow the below steps
 
 Create a core data folder under /data/solr/data folder and copy default configuration from installation
