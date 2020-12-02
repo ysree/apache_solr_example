@@ -49,6 +49,6 @@ chown -R solr:solr ysree/
     config: solrconfig.xml
     schema: schema.xml
     
- * Add columns to the core by opening Core selector → test_logging → Schema → Add Field based upon the fields in the Solr Entity *TestInstanceLog.java*
+ * Add columns to the core by opening Core selector → test_logging → Schema → Add Field based upon the fields in the Solr Entity `TestInstanceLog.java`
  
- * All set! The core can be used in YSREE Web projects using java jpa library for Apache Solr *SolrConfiguration.java*
+ * All set! The core can be used in YSREE Web projects using java jpa library for Apache Solr `SolrConfiguration.java`
